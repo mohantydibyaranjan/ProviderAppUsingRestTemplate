@@ -1,3 +1,2 @@
-# ConsumerAndProviderAppUsingRestTemplate
-# ProviderAppUsingRestTemplate
+
 # ProviderAppUsingRestTemplate
